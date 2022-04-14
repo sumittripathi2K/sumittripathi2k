@@ -1,4 +1,4 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/03/51/65/57/1000_F_351655720_QGvIvDvm4Z8TBVLwmqCYow2UNEIKyJ0E.jpg)](https://sumittripathi.github.io)
+[![MasterHead](https://cdnp3.stackassets.com/8d7b6d12631f572b8682c6719bd4af70ae516a2b/store/53a70245d6e2939055ded1587e4de393fcfd0a28e2409056f468c0347da4/f80ab07ac9efb6a4953147ecdcabed24723fa5b6_main_hero_image.jpg)](https://sumittripathi.github.io)
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
