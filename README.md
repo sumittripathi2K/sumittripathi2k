@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **React Based OTT Platform**
+- 🔭 I’m currently working on **MERN, PERN, AWS, Azure, ASP.NET**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MVC and MVVM Design Architectures**
 
-- 👯 I’m looking to collaborate on **Back-End Project**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **Java, Spring, React**
+- 💬 Ask me about **Node JS, React, Javascript, C Sharp, Golang**
 
 - 📫 How to reach me **sumit.tripathi2k@gmail.com**
 
