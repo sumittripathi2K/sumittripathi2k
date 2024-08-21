@@ -1,4 +1,3 @@
-[![MasterHead](https://images.neosofttech.com/sites/default/files/modern-full-stack-developer-tech-stack-2021-banner.jpg)](https://sumittripathi.github.io)
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
