@@ -1,4 +1,4 @@
-# 🚀 Sumit Tripathi - Portfolio Website
+# 🚀 Sumit Tripathi
 
 <div align="center">
 
