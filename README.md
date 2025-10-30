@@ -1,88 +1,110 @@
-# 🚀 Sumit Tripathi
-
 <div align="center">
 
-![Portfolio Banner](https://capsule-render.vercel.app/api?type=waving&color=0:14a5f3,100:f43f5e&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Cloud%20Solutions&descAlignY=55&descSize=16)
+# 🌟 SUMIT TRIPATHI 🌟
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=14A5F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AWS+Cloud+Specialist;3.5%2B+Years+Experience;Multi-tenant+SaaS+Expert)](https://git.io/typing-svg)
+![Portfolio Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=🚀%20Building%20Next-Gen%20Cloud%20Solutions%20🚀&descAlignY=65&descSize=20)
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=⚡+AWS+CLOUD+ARCHITECT+⚡;🔥+3.5%2B+YEARS+EXPERIENCE+🔥;🎯+MULTI-TENANT+SAAS+EXPERT+🎯" alt="Typing SVG" />
 
-## 🎯 About Me
+<br>
 
-> **Full Stack Developer** with **3.5+ years** of experience building **multi-tenant, cloud-native SaaS** on AWS. Proven track record of reducing costs by **18%**, cutting page load times by **40%**, and improving API reliability to **99.9%**.
+<table>
+<tr>
+<td align="center" width="50%">
 
-<div align="center">
+### 🎯 **MISSION STATEMENT**
 
-[![GitHub followers](https://img.shields.io/github/followers/sumittripathi2K?style=for-the-badge&logo=github&logoColor=white&color=14a5f3)](https://github.com/sumittripathi2K)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-tripathi-34a7301ab/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumit.tripathi2k@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
+```typescript
+const developer = {
+  name: "Sumit Tripathi",
+  role: "Full Stack Developer",
+  experience: "3.5+ years",
+  mission: "Building scalable cloud solutions",
+  impact: {
+    costReduction: "18%",
+    performanceBoost: "40%",
+    uptime: "99.9%"
+  }
+};
+```
 
-</div>
+</td>
+<td align="center" width="50%">
 
-## 🛠️ Tech Stack
+### 🌐 **CONNECT WITH ME**
 
-<div align="center">
+<a href="https://github.com/sumittripathi2K">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=667eea" alt="GitHub"/>
+</a>
+<br><br>
+<a href="https://www.linkedin.com/in/sumit-tripathi-34a7301ab/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=764ba2" alt="LinkedIn"/>
+</a>
+<br><br>
+<a href="mailto:sumit.tripathi2k@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=f093fb" alt="Email"/>
+</a>
+<br><br>
+<a href="https://www.hackerrank.com/Sumit_Tripathi">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866&color=667eea" alt="HackerRank"/>
+</a>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚡ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumittripathi2K&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumittripathi2K&layout=compact&langs_count=8&theme=tokyonight"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sumittripathi2K&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+## 🛠️ **TECHNOLOGY ARSENAL**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,nestjs,express,java,graphql,aws,docker,postgres,mongodb,redis,git&theme=dark" />
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎨 **FRONTEND**
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=667eea" /><br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000&color=764ba2" /><br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6&color=f093fb" /><br>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4&color=667eea" />
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ **BACKEND**
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933&color=764ba2" /><br>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=E0234E&color=f093fb" /><br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00&color=667eea" /><br>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098&color=764ba2" />
+
+</td>
+<td align="center" width="25%">
+
+### ☁️ **CLOUD & DEVOPS**
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900&color=f093fb" /><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=667eea" /><br>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white&labelColor=FF9900&color=764ba2" /><br>
+<img src="https://img.shields.io/badge/SST-F7B93E?style=for-the-badge&logo=serverless&logoColor=white&labelColor=F7B93E&color=f093fb" />
+
+</td>
+<td align="center" width="25%">
+
+### 🗄️ **DATABASES**
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791&color=667eea" /><br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=764ba2" /><br>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D&color=f093fb" /><br>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white&labelColor=4053D6&color=667eea" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
-## 🏆 Achievements & Impact
 
-<div align="center">
-
-| 🎯 Metric | 📈 Achievement |
-|-----------|----------------|
-| **Cost Reduction** | 18% ⬇️ |
-| **Page Load Time** | 40% faster ⚡ |
-| **API Uptime** | 99.9% 🔥 |
-| **Users Served** | 1,200+ 👥 |
-| **Test Coverage** | 55% → 85% 📊 |
-| **Production Defects** | 30% reduction 🐛 |
-
-</div>
 
 ## 💼 Professional Experience
 
@@ -117,83 +139,165 @@
 
 </details>
 
-## 🚀 Featured Projects
+<div align="center">
+
+## 🚀 **FEATURED PROJECTS**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌐 **MULTI-TENANT SAAS**
+
+<img src="https://img.shields.io/badge/Enterprise-Platform-667eea?style=for-the-badge&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=react,nestjs,aws,postgres&theme=dark" />
+
+**🎯 1,200+ Users Served**<br>
+**⚡ 99.9% Uptime**<br>
+**💰 18% Cost Reduction**<br>
+**🏢 5 Business Units**
+
+<img src="https://img.shields.io/badge/Status-Production-00ff00?style=for-the-badge" />
+
+</td>
+<td align="center" width="33%">
+
+### 🔐 **PBAC ENGINE**
+
+<img src="https://img.shields.io/badge/AWS_IAM-Inspired-764ba2?style=for-the-badge&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=nextjs,redis,aws&theme=dark" />
+
+**🚀 15,000+ Checks/sec**<br>
+**⚡ <20ms P95 Latency**<br>
+**🤖 60% Automation**<br>
+**🔒 Zero Security Issues**
+
+<img src="https://img.shields.io/badge/Status-Active-00ff00?style=for-the-badge" />
+
+</td>
+<td align="center" width="33%">
+
+### 📡 **IOT SIMULATOR**
+
+<img src="https://img.shields.io/badge/Real_Time-Telemetry-f093fb?style=for-the-badge&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,websocket&theme=dark" />
+
+**📊 10,000+ Events/sec**<br>
+**⚡ 50% Time Reduction**<br>
+**🔄 Real-time Processing**<br>
+**📈 Zero Data Loss**
+
+<img src="https://img.shields.io/badge/Status-Deployed-00ff00?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
-### 🌐 Multi-tenant SaaS Platform
-*Enterprise-grade platform serving 1,200+ users*
+## 🎓 **EDUCATION & CERTIFICATIONS**
 
-[![Tech](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
-[![Tech](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![Tech](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Tech](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org/)
+<table>
+<tr>
+<td align="center" width="50%">
 
-**Impact**: 99.9% uptime • 18% cost reduction • 5 business units
+### 🏛️ **ACADEMIC EXCELLENCE**
+
+<img src="https://img.shields.io/badge/B.Tech-Computer_Science-667eea?style=for-the-badge&logoColor=white&labelColor=667eea&color=764ba2" />
+
+**🏫 IMS Engineering College, Ghaziabad**<br>
+**📅 2018 - 2022**<br>
+**🎯 86.40% (First Class with Distinction)**
+
+<img src="https://img.shields.io/badge/XII-CBSE-764ba2?style=for-the-badge&logoColor=white&labelColor=764ba2&color=f093fb" />
+
+**🏫 Nav Jeevan Mission School**<br>
+**📅 2016 - 2018**<br>
+**🎯 80.00% | X: 95.00%**
+
+</td>
+<td align="center" width="50%">
+
+### 🏆 **PROFESSIONAL CERTIFICATIONS**
+
+<img src="https://img.shields.io/badge/SAFe_6.0-Practitioner-f093fb?style=for-the-badge&logo=scaled-agile&logoColor=white&labelColor=f093fb&color=667eea" />
+
+**🏢 Scaled Agile Framework**<br>
+**📅 2024**<br>
+**🎯 Agile & Lean Practices**
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-667eea?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=667eea&color=764ba2" />
+
+**☁️ Amazon Web Services**<br>
+**📅 2023**<br>
+**🎯 Cloud Architecture & Services**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 🔐 Policy-Based Access Control (PBAC)
-*AWS IAM-inspired authorization engine*
-
-[![Tech](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Tech](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-[![Tech](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)](https://aws.amazon.com/lambda/)
-
-**Performance**: 15,000+ checks/sec • <20ms p95 latency • 60% automation
-
----
-
-### 📡 IoT Simulator for Device Telemetry
-*Real-time telemetry data generator*
-
-[![Tech](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Tech](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/)
-[![Tech](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)](https://influxdata.com/)
-
-**Scale**: 10,000+ events/sec • 50% testing time reduction
-
-</div>
-
-## 🎓 Education & Certifications
-
 <div align="center">
 
-### 🎓 **IMS Engineering College, Ghaziabad**
-**B.Tech, Computer Science Engineering** | *2018-2022* | **86.40%**
+## 📊 **GITHUB ANALYTICS & ACHIEVEMENTS**
 
-### 📜 **Certifications**
-[![SAFe](https://img.shields.io/badge/SAFe_6.0-Practitioner-4285F4?style=for-the-badge&logo=scaled-agile&logoColor=white)](https://scaledagile.com/)
+<table>
+<tr>
+<td align="center" width="50%">
 
-</div>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=sumittripathi2K&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" />
 
-## 📈 Activity Graph
+</td>
+<td align="center" width="50%">
 
-<div align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumittripathi2K&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" />
 
-[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumittripathi2K&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</td>
+</tr>
+</table>
 
-</div>
+<img src="https://streak-stats.demolab.com/?user=sumittripathi2K&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=764ba2&currStreakLabel=c9d1d9" />
 
-## 🏆 GitHub Trophies
+### 🏆 **IMPACT METRICS**
 
-<div align="center">
+<table>
+<tr>
+<td align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumittripathi2K&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+**💰 COST REDUCTION**<br>
+<img src="https://img.shields.io/badge/18%25-DOWN-00ff00?style=for-the-badge&logoColor=white" />
 
-</div>
+</td>
+<td align="center">
 
-## 🤝 Let's Connect!
+**⚡ PERFORMANCE**<br>
+<img src="https://img.shields.io/badge/40%25-FASTER-ff6b6b?style=for-the-badge&logoColor=white" />
 
-<div align="center">
+</td>
+<td align="center">
 
-I'm always excited to collaborate on innovative projects and discuss new opportunities!
+**🔥 UPTIME**<br>
+<img src="https://img.shields.io/badge/99.9%25-RELIABLE-4ecdc4?style=for-the-badge&logoColor=white" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-tripathi-34a7301ab/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittripathi2K)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumit.tripathi2k@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Sumit_Tripathi)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sumit_2k61)
+</td>
+<td align="center">
+
+**👥 USERS SERVED**<br>
+<img src="https://img.shields.io/badge/1200%2B-ACTIVE-667eea?style=for-the-badge&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sumittripathi2K&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
 </div>
 
@@ -201,15 +305,76 @@ I'm always excited to collaborate on innovative projects and discuss new opportu
 
 <div align="center">
 
-### 💡 *"Building scalable solutions that enhance user experience and accelerate business outcomes"*
+## 📈 **CONTRIBUTION ACTIVITY**
 
-![Profile Views](https://komarev.com/ghpvc/?username=sumittripathi2K&color=14a5f3&style=for-the-badge)
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/sumittripathi2K)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumittripathi2K&theme=react-dark&hide_border=true&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2" />
 
 </div>
 
+---
+
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:14a5f3,100:f43f5e&height=120&section=footer)
+## 🤝 **LET'S BUILD SOMETHING AMAZING TOGETHER!**
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+<a href="https://www.linkedin.com/in/sumit-tripathi-34a7301ab/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=667eea" />
+</a>
+
+**Professional Network**
+
+</td>
+<td align="center" width="20%">
+
+<a href="https://github.com/sumittripathi2K">
+<img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000&color=764ba2" />
+</a>
+
+**Code Repository**
+
+</td>
+<td align="center" width="20%">
+
+<a href="mailto:sumit.tripathi2k@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=f093fb" />
+</a>
+
+**Direct Communication**
+
+</td>
+<td align="center" width="20%">
+
+<a href="https://www.hackerrank.com/Sumit_Tripathi">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866&color=667eea" />
+</a>
+
+**Coding Skills**
+
+</td>
+<td align="center" width="20%">
+
+<a href="https://www.codechef.com/users/sumit_2k61">
+<img src="https://img.shields.io/badge/CodeChef-Compete-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638&color=764ba2" />
+</a>
+
+**Competitive Programming**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 💫 **"Transforming Ideas into Scalable Cloud Solutions"** 💫
+
+<img src="https://komarev.com/ghpvc/?username=sumittripathi2K&color=667eea&style=for-the-badge&label=Profile+Views" />
+<img src="https://img.shields.io/badge/Made_with-❤️_&_☕-f093fb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Always-Learning-764ba2?style=for-the-badge" />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer&animation=twinkling)
 
 </div>
